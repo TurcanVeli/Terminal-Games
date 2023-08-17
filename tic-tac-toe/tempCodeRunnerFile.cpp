@@ -1,0 +1,1 @@
+ (check_game(1))
